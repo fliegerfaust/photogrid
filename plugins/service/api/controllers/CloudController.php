@@ -1,6 +1,6 @@
 <?php namespace Service\Api\Controllers;
 
-require_once base_path() . "/plugins/cloudservice/api/dropbox/lib/Dropbox/autoload.php";
+require_once base_path() . "/plugins/service/api/dropbox/lib/Dropbox/autoload.php";
 
 use \Dropbox as dbx;
 use \Controller;
