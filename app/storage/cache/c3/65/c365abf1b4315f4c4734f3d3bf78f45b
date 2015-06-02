@@ -1,0 +1,16 @@
+1432841460s:619:"a:5:{s:5:"mtime";i:1429017972;s:7:"content";s:232:"title = "Error page (500)"
+url = "/error"
+layout = "default"
+==
+
+<div id="errorPage">
+	<div class="error text-center">
+		OPS!
+	</div>
+	<p class="sub">We're sorry, but something went wrong and the page cannot be displayed.</p>
+</div>";s:8:"settings";a:4:{s:5:"title";s:16:"Error page (500)";s:3:"url";s:6:"/error";s:6:"layout";s:7:"default";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:167:"<div id="errorPage">
+	<div class="error text-center">
+		OPS!
+	</div>
+	<p class="sub">We're sorry, but something went wrong and the page cannot be displayed.</p>
+</div>";}";

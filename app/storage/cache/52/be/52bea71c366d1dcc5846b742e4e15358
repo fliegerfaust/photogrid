@@ -1,0 +1,25 @@
+1432841491s:921:"a:2:{s:5:"mtime";i:1429798842;s:7:"content";s:867:"<div class="oc-share">
+    <div class="btn-group">
+      <button class="btn btn-default btn-xs disabled">Поделиться:</button> 
+
+      	{% if facebook %}
+        <a class="btn btn-default btn-xs" target="_blank" title="On Facebook" href="http://www.facebook.com/sharer.php?u={{url}}">
+            <i class="fa fa-facebook"></i>
+        </a>
+        {% endif %}
+
+        {% if twitter %}
+        <a class="btn btn-default btn-xs" target="_blank" title="On Twitter" href="http://twitter.com/share?url={{url}}">
+            <i class="fa fa-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if googleplus %}
+        <a class="btn btn-default btn-xs" target="_blank" title="On Google Plus" href="https://plus.google.com/share?url={{url}}">
+            <i class="fa fa-google-plus-square"></i>
+        </a>
+        {% endif %}
+        
+    </div>
+</div>
+ ";}";

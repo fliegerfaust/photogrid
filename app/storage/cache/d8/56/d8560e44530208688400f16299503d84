@@ -1,0 +1,82 @@
+1432841460s:2251:"a:5:{s:5:"mtime";i:1429798302;s:7:"content";s:1048:"title = "About"
+url = "/about"
+layout = "default"
+==
+
+<div class="innerHtml">
+	<div class="heading">
+		<h1>О проекте</h1>
+	</div>
+	
+	<div class="content">
+		<div class="row">
+		
+			<div class="col-sm-4 col-md-4 col-lg-4 pull-right">
+				<div class="userimage text-center">
+					<i class="fa fa-github-alt"></i>
+					<hr />
+				</div>
+			</div>
+			
+			<div class="col-sm-8 col-md-8 col-lg-8">
+				<section class="mgb40">
+					<p>
+						Облачный веб-сервис "PhotoGrid" разработан в качестве дипломной работы. 
+						<br />
+						Факультет компьютерных технологий и прикладной математики.
+					</p>
+				</section>
+				
+				<section>
+				<h2>Разработчики</h2>
+					<p>
+						Научный руководитель: к.п.н. Добровольская Наталья Юрьевна
+					<br />
+						Выпускник: Безик Денис Валерьевич
+					</p>
+				</section>
+			</div>
+			
+
+		</div>
+	</div>
+	
+</div>";s:8:"settings";a:4:{s:5:"title";s:5:"About";s:3:"url";s:6:"/about";s:6:"layout";s:7:"default";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:994:"<div class="innerHtml">
+	<div class="heading">
+		<h1>О проекте</h1>
+	</div>
+	
+	<div class="content">
+		<div class="row">
+		
+			<div class="col-sm-4 col-md-4 col-lg-4 pull-right">
+				<div class="userimage text-center">
+					<i class="fa fa-github-alt"></i>
+					<hr />
+				</div>
+			</div>
+			
+			<div class="col-sm-8 col-md-8 col-lg-8">
+				<section class="mgb40">
+					<p>
+						Облачный веб-сервис "PhotoGrid" разработан в качестве дипломной работы. 
+						<br />
+						Факультет компьютерных технологий и прикладной математики.
+					</p>
+				</section>
+				
+				<section>
+				<h2>Разработчики</h2>
+					<p>
+						Научный руководитель: к.п.н. Добровольская Наталья Юрьевна
+					<br />
+						Выпускник: Безик Денис Валерьевич
+					</p>
+				</section>
+			</div>
+			
+
+		</div>
+	</div>
+	
+</div>";}";

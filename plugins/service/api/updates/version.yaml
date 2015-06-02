@@ -1,0 +1,5 @@
+1.0.1:
+    - Initialize plugin
+    - create_api_users_table.php
+    - create_api_tokens_table.php
+    - seed_all_tables.php
